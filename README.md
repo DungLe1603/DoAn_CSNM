@@ -1,5 +1,6 @@
 # DoAn_CSNM
 For operating syste
+
 This program accesses and prints in the screen the hard drive parameters including the drive information and its partitions information.
 You can fllowing this teps:
 1. This program is writed in Microsoft visual studio 2010. You can download and install firstly
